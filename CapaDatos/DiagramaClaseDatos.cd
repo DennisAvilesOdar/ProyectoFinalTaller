@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaDatos.Interfaz.CriterioEvaluacionDAO" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAABAAAAAAAAEAAAAAAAAAEAAAQ=</HashCode>
+      <FileName>Interfaz\CriterioEvaluacionDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.EspecialidadDAO" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAJAAA=</HashCode>
+      <FileName>Interfaz\EspecialidadDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.GradoDAO" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAARAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaz\GradoDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.GradoEstudioDAO" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAAAABAAAAAAAAAAABAAAAIAAAAAAA=</HashCode>
+      <FileName>Interfaz\GradoEstudioDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.MenuDAO" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAgCAgAAAAAAgAAABCAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Interfaz\MenuDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.PerfilesDAO" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAARAAAAE=</HashCode>
+      <FileName>Interfaz\PerfilesDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.PlanDAO" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAQAAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
+      <FileName>Interfaz\PlanDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.SeccionDAO" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgACAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaz\SeccionDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.TipoPagoDAO" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAE=</HashCode>
+      <FileName>Interfaz\TipoPagoDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Interfaz.UsuarioDAO" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAQAAQAAAAAAAAkAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaz\UsuarioDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.ServiceManager&lt;T&gt;" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQAAAAAAAEAQAAAAAAAAAAAAAAAAAAEAAAABAAAAA=</HashCode>
+      <FileName>ServiceManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.ServiceProvider" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServiceProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.CriterioEvaluacionSvc" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAABAAAAAAAAEAAAAAAAAAEAAAQ=</HashCode>
+      <FileName>Servicios\CriterioEvaluacionSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.EspecialidadSvc" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAJAAA=</HashCode>
+      <FileName>Servicios\EspecialidadSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.GradoEstudioSvc" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAAAABAAAAAAAAAAABAAAAIAAAAAAA=</HashCode>
+      <FileName>Servicios\GradoEstudioSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.GradoSvc" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAARAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servicios\GradoSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.MenuSvc" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAgCAgAAAAAAgAAABCAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Servicios\MenuSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.PerfilesSvc" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAARAAAAE=</HashCode>
+      <FileName>Servicios\PerfilesSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.PlanSvc" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAQAAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
+      <FileName>Servicios\PlanSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.SeccionSvc" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgACAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servicios\SeccionSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.TipoPagoSvc" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAE=</HashCode>
+      <FileName>Servicios\TipoPagoSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDatos.Servicios.UsuarioSvc" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAQAAQAAAAAAAAkAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servicios\UsuarioSvc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

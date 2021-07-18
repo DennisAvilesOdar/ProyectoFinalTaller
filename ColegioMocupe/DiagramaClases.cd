@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColegioMocupe.BundleConfig" Collapsed="true">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.RouteConfig" Collapsed="true">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.Global" Collapsed="true">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.MetodosUtiles" Collapsed="true">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetodosUtiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.Principal" Collapsed="true">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAIABAAAAAAAAAAAAAAIoAAA=</HashCode>
+      <FileName>Principal.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.index" Collapsed="true">
+    <Position X="17" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAACQAAAAAAAAJAAAA=</HashCode>
+      <FileName>View\Home\index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.services.servicios" Collapsed="true">
+    <Position X="13.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIQVAIQQBoGAgFBAgkAgAAcBDAAB1AhCAAATCRAIYAE=</HashCode>
+      <FileName>services\servicios.asmx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.aula" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\aula.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.criterio" Collapsed="true">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\criterio.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.curso" Collapsed="true">
+    <Position X="15.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\curso.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.detallepago" Collapsed="true">
+    <Position X="18.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\detallepago.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.especialidad" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\especialidad.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.grado" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\grado.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.gradoestudio" Collapsed="true">
+    <Position X="15.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\gradoestudio.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.matricula" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\matricula.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.permiso" Collapsed="true">
+    <Position X="18.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\permiso.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.plan" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\plan.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.seccion" Collapsed="true">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\seccion.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Estudio.tipopago" Collapsed="true">
+    <Position X="15.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Estudio\tipopago.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Home.Registrar" Collapsed="true">
+    <Position X="18.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Home\Registrar.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Menu.Index" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Menu\Index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Menu.ListarMenuPerfil" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Menu\ListarMenuPerfil.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Menu.Registrar" Collapsed="true">
+    <Position X="15.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Menu\Registrar.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Perfiles.Index" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Perfiles\Index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Perfiles.Registrar" Collapsed="true">
+    <Position X="13.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Perfiles\Registrar.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Principal.Default" Collapsed="true">
+    <Position X="17" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Principal\Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.View.Usuario.Index" Collapsed="true">
+    <Position X="18.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Usuario\Index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColegioMocupe.app.Usuario.Registrar" Collapsed="true">
+    <Position X="17" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Usuario\Registrar.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaNegocio.Core" Collapsed="true">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.Constantes" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.CriterioEvaluacionDTO" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.EspecialidadDTO" Collapsed="true">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.GradoDTO" Collapsed="true">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.GradoEstudioDTO" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.MenuDTO" Collapsed="true">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.HijoDTO" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.PerfilesDTO" Collapsed="true">
+    <Position X="6" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.PerfilMenu" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.PlanDTO" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.SeccionDTO" Collapsed="true">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.TipoPagoDTO" Collapsed="true">
+    <Position X="6" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaEntidad.UsuarioDTO" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

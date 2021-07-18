@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="ColegioMocupe.Principal" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Principal</title>
+    <link href="Content/Pagina/Menu/nestable.css" rel="stylesheet" />
+    <link href="Content/fontawesome/css/all.css" rel="stylesheet" />
+    <link href="Content/material/css/material-dashboard.css" rel="stylesheet" />
+    <link href="Content/bootstrap-table.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+        <div class="wrapper">
+            <div class="sidebar" data-color="danger" data-background-color="white">
+                <div class="logo">
+                    <a href="#" class="simple-text logo-normal">
+                        <img src="../../Imagen/logoEscuela2.PNG" />
+                    </a>
+                </div>
+                <div class="sidebar-wrapper">
+                    <ul class="nav">
+                        <%
+                            foreach (var item in Is_Menu)
+                            {
+                                string padre = "<li class='nav-item active'><a class='nav-link'><i class='fas " + item.icono + "'></i><p>" + item.nombre + "</p></a></li>";
+                                Response.Write(padre);
+                                if (item.listaHijos != null)
+                                {
+                                    foreach (var itemHijo in item.listaHijos)
+                                    {
+                                        string hijo = "<li class='nav-item'><a class='nav-link' href='/View/" + item.url + "/" + itemHijo.url + "'><i class='fas " + itemHijo.icono + "'></i><p>" + itemHijo.nombre + "</p></a></li>";
+                                        Response.Write(hijo);
+                                    }
+                                }
+                            }
+                        %>
+                        <li class="nav-item active">
+                            <asp:LinkButton ID="btnCerrarSesion" runat="server" OnClick="btnCerrarSesion_Click" CssClass="nav-link">
+                            <i class="fas fa-sign-out-alt"></i>
+                            <p>Cerrar Sesion</p>
+                            </asp:LinkButton>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="main-panel">
+                <div class="content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
